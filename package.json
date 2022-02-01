@@ -2,5 +2,23 @@
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "express": "^4.17.2"
-  }
+  },
+  "name": "cookie",
+  "version": "1.0.0",
+  "description": "cookie app",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enugureddy/cookie.git"
+  },
+  "author": "reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enugureddy/cookie/issues"
+  },
+  "homepage": "https://github.com/enugureddy/cookie#readme"
 }
